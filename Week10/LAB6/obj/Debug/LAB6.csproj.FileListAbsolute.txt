@@ -1,0 +1,11 @@
+C:\Users\vorti\OneDrive\Desktop\Info Tech Solutions\Semester 2\APPLICATION DEV C#\PROJECTS\Week10\LAB6\bin\Debug\LAB6.exe.config
+C:\Users\vorti\OneDrive\Desktop\Info Tech Solutions\Semester 2\APPLICATION DEV C#\PROJECTS\Week10\LAB6\bin\Debug\LAB6.exe
+C:\Users\vorti\OneDrive\Desktop\Info Tech Solutions\Semester 2\APPLICATION DEV C#\PROJECTS\Week10\LAB6\bin\Debug\LAB6.pdb
+C:\Users\vorti\OneDrive\Desktop\Info Tech Solutions\Semester 2\APPLICATION DEV C#\PROJECTS\Week10\LAB6\obj\Debug\LAB6.csproj.AssemblyReference.cache
+C:\Users\vorti\OneDrive\Desktop\Info Tech Solutions\Semester 2\APPLICATION DEV C#\PROJECTS\Week10\LAB6\obj\Debug\LAB6.Form1.resources
+C:\Users\vorti\OneDrive\Desktop\Info Tech Solutions\Semester 2\APPLICATION DEV C#\PROJECTS\Week10\LAB6\obj\Debug\LAB6.Form2.resources
+C:\Users\vorti\OneDrive\Desktop\Info Tech Solutions\Semester 2\APPLICATION DEV C#\PROJECTS\Week10\LAB6\obj\Debug\LAB6.Properties.Resources.resources
+C:\Users\vorti\OneDrive\Desktop\Info Tech Solutions\Semester 2\APPLICATION DEV C#\PROJECTS\Week10\LAB6\obj\Debug\LAB6.csproj.GenerateResource.cache
+C:\Users\vorti\OneDrive\Desktop\Info Tech Solutions\Semester 2\APPLICATION DEV C#\PROJECTS\Week10\LAB6\obj\Debug\LAB6.csproj.CoreCompileInputs.cache
+C:\Users\vorti\OneDrive\Desktop\Info Tech Solutions\Semester 2\APPLICATION DEV C#\PROJECTS\Week10\LAB6\obj\Debug\LAB6.exe
+C:\Users\vorti\OneDrive\Desktop\Info Tech Solutions\Semester 2\APPLICATION DEV C#\PROJECTS\Week10\LAB6\obj\Debug\LAB6.pdb
